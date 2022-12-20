@@ -2,6 +2,33 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Tue, 20 Dec 2022 20:01:16 GMT",
+      "tag": "@azure/msal-browser_v2.32.2",
+      "version": "2.32.2",
+      "comments": {
+        "patch": [
+          {
+            "author": "bmahal@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "5d768052d5de051f93068d7327b8d90bfebb8a91",
+            "comment": "added http version changes #5211"
+          },
+          {
+            "author": "bmahal@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "00d3fd949453e3f9dc3316cc0e913a84b9c2cfa2",
+            "comment": "fix logger explicitly set to undefined error #5355 "
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-browser",
+            "comment": "Bump @azure/msal-common to v9.0.2",
+            "commit": "1510e6adb03e217612e9e72a0a972270e716feac"
+          }
+        ]
+      }
+    },
+    {
       "date": "Wed, 07 Dec 2022 16:53:07 GMT",
       "tag": "@azure/msal-browser_v2.32.1",
       "version": "2.32.1",

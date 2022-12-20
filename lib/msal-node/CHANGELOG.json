@@ -2,6 +2,27 @@
   "name": "@azure/msal-node",
   "entries": [
     {
+      "date": "Tue, 20 Dec 2022 20:01:16 GMT",
+      "tag": "@azure/msal-node_v1.14.6",
+      "version": "1.14.6",
+      "comments": {
+        "patch": [
+          {
+            "author": "bmahal@microsoft.com",
+            "package": "@azure/msal-node",
+            "commit": "00d3fd949453e3f9dc3316cc0e913a84b9c2cfa2",
+            "comment": "fix logger undefined error #5355"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-node",
+            "comment": "Bump @azure/msal-common to v9.0.2",
+            "commit": "1510e6adb03e217612e9e72a0a972270e716feac"
+          }
+        ]
+      }
+    },
+    {
       "date": "Wed, 07 Dec 2022 16:53:07 GMT",
       "tag": "@azure/msal-node_v1.14.5",
       "version": "1.14.5",
